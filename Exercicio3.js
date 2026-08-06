@@ -6,4 +6,4 @@ if (capitais.includes('Manaus')) {
 } else {
     console.log('Manaus não está na lista de capitais');
 }
-//***** */
+
